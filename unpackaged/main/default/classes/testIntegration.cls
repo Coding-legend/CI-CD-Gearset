@@ -2,4 +2,7 @@
 @isTest
 public class testIntegration {
 
+    @testSetup static void createData() {
+        
+    }
 }
