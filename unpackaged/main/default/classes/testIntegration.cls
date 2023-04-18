@@ -10,4 +10,9 @@ public class testIntegration {
     testMethod static void testPositive() {
         
     }
+    
+    //Newly Added method
+    testMethod static void testNegative() {
+        
+    }
 }
